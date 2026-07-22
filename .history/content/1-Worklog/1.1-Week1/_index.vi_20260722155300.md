@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 1.1. </b> "
 ---
 
-
 ### Các nhiệm vụ thực hiện trong tuần này:
 
 | Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành |

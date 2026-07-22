@@ -215,3 +215,5 @@ Transit Gateway-attached AWS Network Firewall là một bước tiến giúp:
 Nguồn tham khảo:
 
 - https://aws.amazon.com/vi/blogs/security/why-and-how-to-migrate-to-a-transit-gateway-attached-aws-network-firewall/
+
+</div>

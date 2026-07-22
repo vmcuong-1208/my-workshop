@@ -65,4 +65,3 @@ pre: " <b> 1.7. </b> "
   * Kích hoạt AWS Compute Optimizer để tự động đưa ra khuyến nghị tối ưu trên toàn bộ các dịch vụ tính toán (compute services).
   * Chứng minh khả năng cải thiện hiệu quả chi phí và hiệu năng vận hành bằng cách tinh chỉnh kích thước EC2 phù hợp với nhu cầu sử dụng thực tế.
   * Kiểm chứng mô hình tối ưu hóa kết hợp: Giám sát (Monitoring) → Điều chỉnh quy mô (Right-sizing) → Cam kết chi phí (Savings Plans/RI).
-  
