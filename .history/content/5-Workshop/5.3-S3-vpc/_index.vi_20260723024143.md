@@ -19,5 +19,5 @@ Các nhiệm vụ chính:
 
 #### Nội dung
 
-- [Cấu hình Cognito và API Gateway](3.1-create-gwe/)
-- [Tạo DynamoDB, S3, và kiểm thử API](3.2-test-gwe/)
+- [Tạo gateway endpoint](3.1-create-gwe/)
+- [Test gateway endpoint](3.2-test-gwe/)

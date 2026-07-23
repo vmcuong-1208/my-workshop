@@ -7,7 +7,6 @@ pre: " <b> 2. </b> "
 ---
 
 # AI Personal Learning Journal Platform
-
 ## Nền tảng nhật ký học tập cá nhân tích hợp AI trên kiến trúc AWS serverless
 
 ### 1. Tổng Quan Đề Tài
