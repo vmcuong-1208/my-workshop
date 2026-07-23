@@ -1,10 +1,12 @@
 ---
-title : "Tạo DynamoDB, S3 và kiểm thử API"
+title : "Tạo DynamoDB, S3 và thử nghiệm API"
 date : 2024-01-01 
 weight : 2
 chapter : false
 pre : " <b> 5.3.2 </b> "
 ---
+
+# Tạo DynamoDB, S3, và kiểm thử API
 
 #### Tạo các bảng DynamoDB
 

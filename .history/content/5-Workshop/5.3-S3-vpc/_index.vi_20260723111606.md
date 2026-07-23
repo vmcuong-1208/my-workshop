@@ -1,5 +1,5 @@
 ---
-title: "Xây dựng lớp API và lưu trữ"
+title: "Truy cập S3 từ VPC"
 date: 2024-01-01
 weight: 3
 chapter: false
@@ -22,7 +22,7 @@ Trách nhiệm chính:
 - [Cấu hình Cognito và API Gateway](/5-workshop/5.3-s3-vpc/5.3.1-create-gwe/)
 - [Tạo DynamoDB, S3 và kiểm thử API](/5-workshop/5.3-s3-vpc/5.3.2-test-gwe/)
 
-<!-- ## Nội dung
+## Nội dung
 
 - [Tạo gateway endpoint](3.1-create-gwe/)
-- [Tạo bucket, kiểm tra truy cập và xác nhận kết quả](3.2-test-gwe/) -->
+- [Tạo bucket, kiểm tra truy cập và xác nhận kết quả](3.2-test-gwe/)

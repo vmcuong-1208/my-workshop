@@ -1,5 +1,5 @@
 ---
-title: "Xây dựng lớp API và lưu trữ"
+title: "Truy cập S3 từ VPC"
 date: 2024-01-01
 weight: 3
 chapter: false
