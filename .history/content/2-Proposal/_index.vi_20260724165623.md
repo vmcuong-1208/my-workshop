@@ -36,7 +36,7 @@ AI sử dụng nội dung nhật ký và tiến độ để gợi ý: nên tập
 
 #### 2.4. Tối ưu chi phí cho nhóm nhỏ
 
-Thiết kế hạ tầng để chạy được với chi phí thấp: dùng Lambda, S3, DynamoDB/SQS, pay-per-use và Monitoring & Cost Guardrails (CloudWatch + Budgets).
+Thiết kế hạ tầng để chạy được với chi phí thấp: dùng Lambda, S3, DynamoDB/SQS, pay per use và Monitoring & Cost Guardrails (CloudWatch + Budgets).
 
 ### 2. Vấn đề cần giải quyết & Lợi ích
 

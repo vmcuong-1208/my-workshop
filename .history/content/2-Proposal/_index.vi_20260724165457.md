@@ -30,13 +30,7 @@ Người dùng có thể ghi nhật ký học tập (text + ảnh), được AI 
 
 AI sử dụng nội dung nhật ký và tiến độ để gợi ý: nên tập trung bài nào, kỹ năng nào, thói quen nào cần điều chỉnh.
 
-#### 2.3. Thực hành kiến trúc serverless trên AWS
 
-Ứng dụng kiến trúc không máy chủ, event driven và AI (Groq) trong một hệ thống thực tế, đáp ứng các nguyên tắc của AWS Well Architected (chi phí, bảo mật, độ sẵn sàng, vận hành).
-
-#### 2.4. Tối ưu chi phí cho nhóm nhỏ
-
-Thiết kế hạ tầng để chạy được với chi phí thấp: dùng Lambda, S3, DynamoDB/SQS, pay-per-use và Monitoring & Cost Guardrails (CloudWatch + Budgets).
 
 ### 2. Vấn đề cần giải quyết & Lợi ích
 
