@@ -31,15 +31,15 @@ Buổi chia sẻ được chia thành năm hoạt động, đi từ khoa học t
 
 - **Hoạt động 3 — Ba mẹo não bộ để việc học giống như chơi game**
   - Các mẹo thực tiễn:
-    - Dùng cảm giác sợ "mất streak" để duy trì thói quen: Con người thường sợ mất mát hơn là mong muốn đạt được. Duy trì một chuỗi học tập liên tục (tương tự điểm danh trong game hoặc streak trên mạng xã hội) tạo áp lực tích cực, khiến bạn sợ đánh mất chuỗi mình đã cố gắng xây dựng.
+    + Dùng cảm giác sợ "mất streak" để duy trì thói quen: Con người thường sợ mất mát hơn là mong muốn đạt được. Duy trì một chuỗi học tập liên tục (tương tự điểm danh trong game hoặc streak trên mạng xã hội) tạo áp lực tích cực, khiến bạn sợ đánh mất chuỗi mình đã cố gắng xây dựng.
 
-    - Quy tắc chia nhỏ mục tiêu (chia nhỏ lượng kiến thức khổng lồ): Thay vì bị "ngợp" bởi một lượng kiến thức lớn, hãy chia nhỏ thành các nhiệm vụ nhỏ (ví dụ: học 5-10 phút, tạo một tài khoản, giải một bài toán đơn giản). Điều này giúp não bộ dễ dàng bắt đầu mà không cảm thấy áp lực.
+    + Quy tắc chia nhỏ mục tiêu (chia nhỏ lượng kiến thức khổng lồ): Thay vì bị "ngợp" bởi một lượng kiến thức lớn, hãy chia nhỏ thành các nhiệm vụ nhỏ (ví dụ: học 5-10 phút, tạo một tài khoản, giải một bài toán đơn giản). Điều này giúp não bộ dễ dàng bắt đầu mà không cảm thấy áp lực.
 
-    - Quy tắc 2 phút (giải quyết nhanh các việc đơn giản): Bất cứ việc gì có thể giải quyết trong 2 phút thì nên làm ngay để tránh trì hoãn.
+    + Quy tắc 2 phút (giải quyết nhanh các việc đơn giản): Bất cứ việc gì có thể giải quyết trong 2 phút thì nên làm ngay để tránh trì hoãn.
 
-    - Tạo môi trường học tập thuận lợi (đầu tư một không gian học riêng) và xây dựng hệ thống phản hồi: Thiết lập hệ thống phản hồi như trao điểm kinh nghiệm (XP) sau mỗi buổi học hoặc tự thưởng một ly cà phê khi đạt mục tiêu. Việc "lên cấp" hoặc nhận thưởng sẽ khiến não bộ tin rằng học tập cũng thỏa mãn như chơi game.
+    + Tạo môi trường học tập thuận lợi (đầu tư một không gian học riêng) và xây dựng hệ thống phản hồi: Thiết lập hệ thống phản hồi như trao điểm kinh nghiệm (XP) sau mỗi buổi học hoặc tự thưởng một ly cà phê khi đạt mục tiêu. Việc "lên cấp" hoặc nhận thưởng sẽ khiến não bộ tin rằng học tập cũng thỏa mãn như chơi game.
 
-    - Xây dựng môi trường và thói quen học tập tích cực: Trang trí bàn học đẹp mắt và duy trì một không gian học cố định đóng vai trò quan trọng trong việc báo hiệu cho não bộ tự động "vào việc" mỗi khi ngồi xuống.
+    + Xây dựng môi trường và thói quen học tập tích cực: Trang trí bàn học đẹp mắt và duy trì một không gian học cố định đóng vai trò quan trọng trong việc báo hiệu cho não bộ tự động "vào việc" mỗi khi ngồi xuống.
 
 - **Hoạt động 4 — Đánh cắp công thức của mạng xã hội**
   - Tìm hiểu cách sử dụng AI đang phát triển: từ một câu hỏi đơn lẻ → có căn cứ từ tài liệu → cá nhân hóa theo thời gian. Khám phá khái niệm "Bộ não thứ hai AI" (Second AI Brain) và quy trình Lưu trữ → Truy xuất → Tạo sinh → Học hỏi.
@@ -397,6 +397,6 @@ Diễn giả mở đầu bằng cách tuyên bố rằng "Vibe Coding chỉ dàn
 
 Buổi chia sẻ này đã lặng lẽ phân loại lại ý nghĩa thực sự của việc phát triển AI. Luận điểm không phải là AI bị phóng đại, hãy làm ít hơn, mà là AI bị phóng đại ở cấp độ một prompt đơn lẻ - hãy làm tốt hơn với một quy trình. Đến cuối buổi chia sẻ, tôi đã có một giải pháp thay thế nhận diện được cho Vibe Coding mà tôi có thể cài đặt trong IDE với một lệnh, một bộ từ vựng (PRD, Kiến trúc, Epics, Stories, Draft, Approved) đã cải thiện dự án nhóm của chúng tôi, và một quy tắc chung tôi sẽ mang theo vào mọi buổi coding có AI hỗ trợ trong tương lai: ngữ cảnh nhỏ hơn cho mỗi agent, luồng story có cổng kiểm soát, và một thiết kế rõ ràng trước khi bất kỳ code nào chạm vào bàn phím.
 
-![Sự kiện 1](../images/4-EventParticipated/Event-09-05.jpg)
-![Sự kiện 1](<../images/4-EventParticipated/Event-09-05(2).jpg>)
-![Sự kiện 1](<../images/4-EventParticipated/Event-09-05(3).jpg>)
+![Sự kiệ 1](../images/4-EventParticipated/Event-09-05.jpg)
+![Event 1](<../images/4-EventParticipated/Event-09-05(2).jpg>)
+![Event 1](<../images/4-EventParticipated/Event-09-05(3).jpg>)
