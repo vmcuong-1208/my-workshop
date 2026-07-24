@@ -10,7 +10,7 @@ pre: " <b> 2. </b> "
 
 ## Nền tảng nhật ký học tập cá nhân tích hợp AI trên kiến trúc AWS serverless
 
-### 1. Tổng Quan Đề Tài
+### 1. Tổng quan đề tài
 
 Đề tài xây dựng một nền tảng web giúp người học ghi nhật ký học tập hàng ngày, kèm text và đính kèm ảnh, sau đó dùng AI để phân tích, tổng hợp và tạo báo cáo tuần/tháng về tiến độ học tập, điểm mạnh – điểm yếu, thói quen học và gợi ý cải thiện, tạo quiz ôn tập, tìm kiếm và thống kê tiến độ.
 
@@ -18,7 +18,7 @@ Hệ thống được triển khai toàn bộ trên AWS theo kiến trúc server
 
 Mục tiêu là tạo ra một sản phẩm hỗ trợ học tập có ích, đồng thời thể hiện khả năng thiết kế kiến trúc cloud hiện đại, bảo mật, tối ưu chi phí, xử lý bất đồng bộ và dễ vận hành cho nhóm nhỏ.
 
-### 2. Mục Tiêu Đề Tài
+### 2. Mục tiêu đề tài
 
 #### **Các mục tiêu chính:**
 

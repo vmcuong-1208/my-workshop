@@ -18,7 +18,7 @@ Hệ thống được triển khai toàn bộ trên AWS theo kiến trúc server
 
 Mục tiêu là tạo ra một sản phẩm hỗ trợ học tập có ích, đồng thời thể hiện khả năng thiết kế kiến trúc cloud hiện đại, bảo mật, tối ưu chi phí, xử lý bất đồng bộ và dễ vận hành cho nhóm nhỏ.
 
-### 2. Mục Tiêu Đề Tài
+### 2. Mục Tiêu tài
 
 #### **Các mục tiêu chính:**
 
