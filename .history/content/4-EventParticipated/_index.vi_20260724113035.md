@@ -42,7 +42,7 @@ Trong quá trình thực tập, em đã tham gia 4 events, với mỗi event là
 
 &emsp;**Tên sự kiện:** AWS FIRST CLOUD AI JOURNEY COMMUNITY DAY 2026
 
-&emsp;**Thời gian:** 09:00 ngày 27/06/2026
+&emsp;**Thời gian:** 09:00 ngày 13/08/2025
 
 &emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
 
