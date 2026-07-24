@@ -15,7 +15,7 @@ chapter: false
 
 &emsp; **Email:** [vumanhcuong12082004@gmail.com](mailto:vumanhcuong12082004@gmail.com)
 
-&emsp; **Trường đại học:** Trường Đại học Công nghệ Thành phố Hồ Chí Minh (HUTECH)
+&emsp; **Trường đại học:** Trường Đại học Công nghệ Thành phố Hồ Chí Minh
 
 &emsp; **Chuyên ngành:** Công nghệ thông tin
 
