@@ -398,5 +398,5 @@ Buổi chia sẻ của Vy Lam là lời nhắc rõ ràng rằng AI doanh nghiệ
 
 
 ![Event 2](../../../images/4-EventParticipated/4.2-Event2/Event-23-05.jpg)
-![Event 2(2)](../../../images/4-EventParticipated/4.2-Event2/Event-23-05-2.jpg)
-![Event 2(3)](../../../images/4-EventParticipated/4.2-Event2/Event-23-05-3.jpg)
+![Event 2(2)](../../images/4-EventParticipated/4.2-Event2/Event-23-05-2.jpg)
+![Event 2(3)](../../images/4-EventParticipated/4.2-Event2/Event-23-05-3.jpg)

@@ -430,4 +430,4 @@ Hai diễn giả mở đầu bằng giao diện làm việc của Amazon Quick: 
 
 Phiên này đã âm thầm tái định nghĩa “secure MCP cho AI agent” ở tầng network. Luận điểm không phải là “MCP không an toàn, hãy làm ít đi”, mà là “MCP mặc định không an toàn, hãy đi qua VPC Connection for Quick để thiết kế an toàn từ bản chất”. Đến cuối buổi, tôi có một bộ từ vựng có thể dùng cho các dự án tương lai: Quick ENI + Route 53 + Internal ALB + MCP server; 3 nguyên tắc (Private entry, Private DNS, Internal path); 5 bước request flow; observability tập trung qua Jaeger; và một danh sách anti-pattern ngắn để bắt các lỗi trượt chuẩn phổ biến. Sự chuyển dịch rõ nhất là từ việc xem MCP server như “chỉ là endpoint” sang xem chúng như những công cụ chuyên biệt, cô lập, mỗi cái giữ một miền dữ liệu riêng, và xem traffic của agent như thứ phải ở trong trust zone của khách hàng từ request tới response. Khung này — private-by-default như một lựa chọn kiến trúc bạn đưa ra một lần — là thứ tôi sẽ mang theo vào mọi dự án agent tương lai.
 
-![Event 4](../../../images/4-EventParticipated/4.4-Event4/Event-27-06.jpg)
+![Event 4](../../images/4-EventParticipated/4.4-Event4/Event-27-06.jpg)

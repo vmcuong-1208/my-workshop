@@ -537,7 +537,7 @@ Một buổi seminar chuyên sâu về kỹ thuật trong chuỗi cộng đồng
 
 ### Diễn giả
 
-- **Phạm Quang Thái**
+- **Phạm Quang Thái** 
 
 ### Tóm tắt nội dung và các hoạt động chính
 
@@ -630,4 +630,4 @@ Phạm Quang Thái mở đầu bằng một bức tranh kỹ thuật rất rõ v
 Buổi chia sẻ này đã định nghĩa lại với tôi “cloud architecture” nghĩa là gì ở vai trò sinh viên. Luận điểm của bài nói không phải là “cloud đang bị thổi phồng nên hãy dùng ít lại”, mà là “cloud bị thổi phồng ở mức độ một dịch vụ đơn lẻ, nên hãy dùng nó tốt hơn như một hệ sinh thái có điều phối”. Đến cuối buổi, tôi có được một mental model đủ cụ thể để mang vào prototype multiplayer tiếp theo của nhóm: hai kiểu kiến trúc, ba đòn bẩy về elasticity và một lá chắn bảo mật ba lớp. Điều đọng lại rõ nhất là sự chuyển dịch từ “thuê một VM” sang “thiết kế một tam giác resilience + latency + security”: Agones giữ phiên chơi sống, Spot kiểu FleetIQ tối ưu chi phí, còn REPs + DynamoDB + Kinesis bảo vệ niềm tin của người dùng. Chính tam giác đó là thứ tôi sẽ mang theo vào mọi dự án có yếu tố hệ thống sống và nhiều người dùng.
 
 ![Event 3](../../../images/4-EventParticipated/4.3-Event3/Event-30-05.jpg)
-![Event 3(2)](../../../images/4-EventParticipated/4.3-Event3/Event-30-05-2.jpg)
+![Event 3(2)](../../images/4-EventParticipated/4.3-Event3/Event-30-05-2.jpg)

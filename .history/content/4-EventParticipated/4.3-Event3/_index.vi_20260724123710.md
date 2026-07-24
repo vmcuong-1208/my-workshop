@@ -537,7 +537,7 @@ Một buổi seminar chuyên sâu về kỹ thuật trong chuỗi cộng đồng
 
 ### Diễn giả
 
-- **Phạm Quang Thái**
+- **Phạm Quang Thái** 
 
 ### Tóm tắt nội dung và các hoạt động chính
 

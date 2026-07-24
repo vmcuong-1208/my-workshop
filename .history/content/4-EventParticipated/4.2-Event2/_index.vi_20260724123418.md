@@ -397,6 +397,6 @@ Vy Lam mở đầu bằng một sự thật đơn giản nhưng đau: chấm đi
 Buổi chia sẻ của Vy Lam là lời nhắc rõ ràng rằng AI doanh nghiệp thực sự còn rất xa so với việc “làm chatbot chạy được”. Đó là về các agent chuyên biệt cộng tác, các pipeline an toàn, đầu ra có thể kiểm toán, và một bài toán kinh doanh mà team tài chính có thể chấp thuận. Là một sinh viên, tôi ra về với vốn từ vựng kiến trúc sắc bén hơn, tự tin hơn trong thiết kế AI tác tử, và một checklist cụ thể để biến các dự án sinh viên hoặc capstone tương lai từ POC thành “sản phẩm có hình dáng production”.
 
 
-![Event 2](../../../images/4-EventParticipated/4.2-Event2/Event-23-05.jpg)
-![Event 2(2)](../../../images/4-EventParticipated/4.2-Event2/Event-23-05-2.jpg)
-![Event 2(3)](../../../images/4-EventParticipated/4.2-Event2/Event-23-05-3.jpg)
+![Event 2](../../images/4-EventParticipated/4.2-Event2/Event-23-05.jpg)
+![Event 2(2)](../../images/4-EventParticipated/4.2-Event2/Event-23-05-2.jpg)
+![Event 2(3)](../../images/4-EventParticipated/4.2-Event2/Event-23-05-3.jpg)
