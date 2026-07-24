@@ -18,15 +18,7 @@ Hệ thống được triển khai toàn bộ trên AWS theo kiến trúc server
 
 Mục tiêu là tạo ra một sản phẩm hỗ trợ học tập có ích, đồng thời thể hiện khả năng thiết kế kiến trúc cloud hiện đại, bảo mật, tối ưu chi phí, xử lý bất đồng bộ và dễ vận hành cho nhóm nhỏ.
 
-### 2. Mục tiêu đề tài
-
-#### **Các mục tiêu chính:**
-
-##### 2.1. Hỗ trợ người học tự phản tư (reflective learning)
-
-###### Người dùng có thể ghi nhật ký học tập (text + ảnh), được AI phân tích và tóm tắt thành báo cáo tuần/tháng, giúp nhìn lại hành trình học một cách có cấu trúc.
-
-### 2. Vấn đề cần giải quyết & Lợi ích
+### 2. Vấn 
 
 #### Hiện Trạng
 

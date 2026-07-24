@@ -6,11 +6,13 @@ chapter: false
 pre: " <b> 2. </b> "
 ---
 
-# AI Personal Learning
+# AI Personal Learning Journal Platform
 
 ## Nền tảng nhật ký học tập cá nhân tích hợp AI trên kiến trúc AWS serverless
 
-### 1. Tổng quan đề tài
+### 1. Tổng Quan Đề Tài
+
+Tên đề tài: AI Personal Learning – Nền tảng nhật ký học tập cá nhân tích hợp AI (kiến trúc serverless).
 
 Đề tài xây dựng một nền tảng web giúp người học ghi nhật ký học tập hàng ngày, kèm text và đính kèm ảnh, sau đó dùng AI để phân tích, tổng hợp và tạo báo cáo tuần/tháng về tiến độ học tập, điểm mạnh – điểm yếu, thói quen học và gợi ý cải thiện, tạo quiz ôn tập, tìm kiếm và thống kê tiến độ.
 
@@ -18,15 +20,7 @@ Hệ thống được triển khai toàn bộ trên AWS theo kiến trúc server
 
 Mục tiêu là tạo ra một sản phẩm hỗ trợ học tập có ích, đồng thời thể hiện khả năng thiết kế kiến trúc cloud hiện đại, bảo mật, tối ưu chi phí, xử lý bất đồng bộ và dễ vận hành cho nhóm nhỏ.
 
-### 2. Mục tiêu đề tài
-
-#### **Các mục tiêu chính:**
-
-##### 2.1. Hỗ trợ người học tự phản tư (reflective learning)
-
-###### Người dùng có thể ghi nhật ký học tập (text + ảnh), được AI phân tích và tóm tắt thành báo cáo tuần/tháng, giúp nhìn lại hành trình học một cách có cấu trúc.
-
-### 2. Vấn đề cần giải quyết & Lợi ích
+### 2. Mục tiêu đề 
 
 #### Hiện Trạng
 
@@ -199,3 +193,4 @@ Nhiều thành phần serverless có thể gây khó debug. Cách xử lý: Clou
 - Backend có khả năng mở rộng bằng API Gateway, Lambda, DynamoDB, S3 và SQS.
 - AI report và quiz được xử lý bất đồng bộ thông qua Groq.
 - Có monitoring và cost guardrails phù hợp môi trường demo/thực tập.
+
