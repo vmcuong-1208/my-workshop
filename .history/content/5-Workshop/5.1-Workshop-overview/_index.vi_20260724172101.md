@@ -10,7 +10,7 @@ pre: " <b> 5.1. </b> "
 
 Workshop này xây dựng một ứng dụng nhật ký học tập tích hợp AI trên AWS. Người dùng truy cập frontend qua CloudFront, AWS WAF bảo vệ lớp biên, Amplify host ứng dụng web và Cognito xác thực người dùng trước khi frontend gọi các route API Gateway được bảo vệ.
 
-![architecture](../../../images/5-Workshop/5.1-Workshop-overview/ai_personal_learning_architecture.png)
+![architecture](../../images/5-Workshop/5.1-Workshop-overview/ai_personal_learning_architecture.png)
 
 ## Luồng yêu cầu
 
