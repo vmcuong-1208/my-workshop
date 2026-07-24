@@ -399,4 +399,4 @@ Buổi chia sẻ này đã lặng lẽ phân loại lại ý nghĩa thực sự 
 
 ![Event 1](../../../images/4-EventParticipated/4.1-Event1/Event-09-05.png)
 ![Event 1(2)](../../images/4-EventParticipated/4.1-Event1/Event-09-05-2.png)
-![Event 1(3)](../../../images/4-EventParticipated/4.1-Event1/Event-09-05-3.png)
+![Event 1(3)](../../images/4-EventParticipated/4.1-Event1/Event-09-05-3.png)

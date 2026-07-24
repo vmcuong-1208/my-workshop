@@ -397,6 +397,6 @@ Diễn giả mở đầu bằng cách tuyên bố rằng "Vibe Coding chỉ dàn
 
 Buổi chia sẻ này đã lặng lẽ phân loại lại ý nghĩa thực sự của việc phát triển AI. Luận điểm không phải là AI bị phóng đại, hãy làm ít hơn, mà là AI bị phóng đại ở cấp độ một prompt đơn lẻ - hãy làm tốt hơn với một quy trình. Đến cuối buổi chia sẻ, tôi đã có một giải pháp thay thế nhận diện được cho Vibe Coding mà tôi có thể cài đặt trong IDE với một lệnh, một bộ từ vựng (PRD, Kiến trúc, Epics, Stories, Draft, Approved) đã cải thiện dự án nhóm của chúng tôi, và một quy tắc chung tôi sẽ mang theo vào mọi buổi coding có AI hỗ trợ trong tương lai: ngữ cảnh nhỏ hơn cho mỗi agent, luồng story có cổng kiểm soát, và một thiết kế rõ ràng trước khi bất kỳ code nào chạm vào bàn phím.
 
-![Event 1](../../../images/4-EventParticipated/4.1-Event1/Event-09-05.png)
-![Event 1(2)](../../images/4-EventParticipated/4.1-Event1/Event-09-05-2.png)
-![Event 1(3)](../../../images/4-EventParticipated/4.1-Event1/Event-09-05-3.png)
+![Sự kiện 1](../images/4-EventParticipated/Event-09-05.jpg)
+![Sự kiện 1()](<../images/4-EventParticipated/Event-09-05(2).jpg>)
+![Sự kiện 1](<../images/4-EventParticipated/Event-09-05(3).jpg>)

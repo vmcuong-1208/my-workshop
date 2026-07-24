@@ -191,4 +191,3 @@ Nhiều thành phần serverless có thể gây khó debug. Cách xử lý: Clou
 - Backend có khả năng mở rộng bằng API Gateway, Lambda, DynamoDB, S3 và SQS.
 - AI report và quiz được xử lý bất đồng bộ thông qua Groq.
 - Có monitoring và cost guardrails phù hợp môi trường demo/thực tập.
-

@@ -192,3 +192,7 @@ Nhiều thành phần serverless có thể gây khó debug. Cách xử lý: Clou
 - AI report và quiz được xử lý bất đồng bộ thông qua Groq.
 - Có monitoring và cost guardrails phù hợp môi trường demo/thực tập.
 
+
+![Event 1](../../images/4-EventParticipated/4.1-Event1/Event-09-05.png)
+![Event 1(2)](../../images/4-EventParticipated/4.1-Event1/Event-09-05-2.png)
+![Event 1(3)](../../images/4-EventParticipated/4.1-Event1/Event-09-05-3.png)
